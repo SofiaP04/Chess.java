@@ -1,0 +1,126 @@
+# ==========================================================
+# THEMES FILE
+# ==========================================================
+
+# ----------------------------------------------------------
+# CLASSIC THEME
+# ----------------------------------------------------------
+[Classic]
+
+# Squares
+lightSquare=assets/themes/Classic/lsquareclas.jpg
+darkSquare=assets/themes/Classic/dsquareclas.jpg
+
+# Pieces
+wqueen=assets/themes/Classic/wqueenclas.png
+wking=assets/themes/Classic/wkingclas.png
+wrook=assets/themes/Classic/wrookclas.png
+wbishop=assets/themes/Classic/wbishopclas.png
+wknight=assets/themes/Classic/wknightclas.png
+wpawn=assets/themes/Classic/wpawnclas.png
+
+bqueen=assets/themes/Classic/bqueenclas.png
+bking=assets/themes/Classic/bkingclas.png
+brook=assets/themes/Classic/brookclas.png
+bbishop=assets/themes/Classic/bbishopclas.png
+bknight=assets/themes/Classic/bknightclas.png
+bpawn=assets/themes/Classic/bpawnclas.png
+
+# Border
+borderTexture=assets/themes/Classic/dsquareclas.jpg
+
+# Background
+bgmar=assets/themes/Classic/clasbg.jpg
+
+
+# ----------------------------------------------------------
+# MARBLE
+# ----------------------------------------------------------
+[Marble]
+
+# Squares
+lightSquare=assets/themes/Marble/lsquaremar.jpg
+darkSquare=assets/themes/Marble/dsquaremar.jpg
+
+# Pieces
+wqueen=assets/themes/Marble/wqueenmar.png
+wking=assets/themes/Marble/wkingmar.png
+wrook=assets/themes/Marble/wrookmar.png
+wbishop=assets/themes/Marble/wbishopmar.png
+wknight=assets/themes/Marble/wknightmar.png
+wpawn=assets/themes/Marble/wpawnmar.png
+
+bqueen=assets/themes/Marble/bqueenmar.png
+bking=assets/themes/Marble/bkingmar.png
+brook=assets/themes/Marble/brookmar.png
+bbishop=assets/themes/Marble/bbishopmar.png
+bknight=assets/themes/Marble/bknightmar.png
+bpawn=assets/themes/Marble/bpawnmar.png
+
+# Border
+borderTexture=assets/themes/Marble/bordermar.png
+
+# Background
+bgmar=assets/themes/Marble/bgmar.jpg
+
+
+# ----------------------------------------------------------
+# METALLIC THEME
+# ----------------------------------------------------------
+[Metallic]
+
+# Squares
+lightSquare=assets/themes/Metallic/lsquaremet.png
+darkSquare=assets/themes/Metallic/dsquaremet.png
+
+# Pieces
+wqueen=assets/themes/Metallic/wqueenmet.png
+wking=assets/themes/Metallic/wkingmet.png
+wrook=assets/themes/Metallic/wrookmet.png
+wbishop=assets/themes/Metallic/wbishopmet.png
+wknight=assets/themes/Metallic/wknightmet.png
+wpawn=assets/themes/Metallic/wpawnmet.png
+
+bqueen=assets/themes/Metallic/bqueenmet.png
+bking=assets/themes/Metallic/bkingmet.png
+brook=assets/themes/Metallic/brookmet.png
+bbishop=assets/themes/Metallic/bbishopmet.png
+bknight=assets/themes/Metallic/bknightmet.png
+bpawn=assets/themes/Metallic/bpawnmet.png
+
+# Border
+borderTexture=assets/themes/Metallic/metallicborder.jpg
+
+# Background
+bgmar=assets/themes/Metallic/metallicbg.jpg
+
+
+# ----------------------------------------------------------
+# STYLIZED THEME
+# ----------------------------------------------------------
+[Stylized]
+
+# Squares
+lightSquare=assets/themes/Stylized/lsquarestyl.png
+darkSquare=assets/themes/Stylized/dsquarestyl.jpg
+
+# Pieces
+wqueen=assets/themes/Stylized/wqueenstyl.png
+wking=assets/themes/Stylized/wkingstyl.png
+wrook=assets/themes/Stylized/wrookstyl.png
+wbishop=assets/themes/Stylized/wbishopstyl.png
+wknight=assets/themes/Stylized/wknightstyl.png
+wpawn=assets/themes/Stylized/wpawnstyl.png
+
+bqueen=assets/themes/Stylized/bqueenstyl.png
+bking=assets/themes/Stylized/bkingstyl.png
+brook=assets/themes/Stylized/brookstyl.png
+bbishop=assets/themes/Stylized/bbishopstyl.png
+bknight=assets/themes/Stylized/bknightstyl.png
+bpawn=assets/themes/Stylized/bpawnstyl.png
+
+# Border
+borderTexture=assets/themes/Stylized/dsquarestyl.jpg
+
+# Background
+bgmar=assets/themes/Stylized/stylizedbg.jpg
